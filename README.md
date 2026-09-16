@@ -40,7 +40,7 @@ El proyecto se encuentra organizado en carpetas independientes para cada uno de 
 * **Entorno de desarrollo:** IntelliJ IDEA.
 
 ---
-## Tutor
-* Walter Hugo Arboleda Mazo 
+## 👨‍💻 Tutor
+* Walter Hugo Arboleda Mazo — Systems Engineering
 ## 👨‍💻 Autor
 * **Estudiante:** Samuel David Yepes Zambrano — Systems Engineering Student
