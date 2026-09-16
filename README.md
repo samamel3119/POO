@@ -1,13 +1,10 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Escudo_de_la_Universidad_Nacional_de_Colombia_%282016%29.svg" alt="Escudo Universidad Nacional de Colombia" width="120"/>
-</p>
 
 <h1 align="center">Universidad Nacional de Colombia</h1>
 <h3 align="center">Sede Medellín — Ingeniería de Sistemas</h3>
 
 ---
 
-# 🚀 Ejercicios de Programación Orientada a Objetos (POO) - Java
+#  Ejercicios de Programación Orientada a Objetos (POO) - Java
 
 Repositorio creado para el desarrollo y práctica de la guía de Programación Orientada a Objetos en Java, estructurado bajo principios de modularidad, separación de responsabilidades, constructores y métodos de instancia.
 
@@ -40,9 +37,10 @@ El proyecto se encuentra organizado en carpetas independientes para cada uno de 
 ## 🛠️ Tecnologías Utilizadas
 * **Lenguaje:** Java 
 * **Paradigma:** Programación Orientada a Objetos (POO)
-* **Entorno de desarrollo:** Compatible con cualquier IDE estándar (NetBeans, Eclipse, IntelliJ IDEA, VS Code).
+* **Entorno de desarrollo:** IntelliJ IDEA.
 
 ---
-
+## Tutor
+* Walter Hugo Arboleda Mazo 
 ## 👨‍💻 Autor
 * **Estudiante:** Samuel David Yepes Zambrano — Systems Engineering Student
