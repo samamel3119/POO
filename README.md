@@ -12,23 +12,23 @@ Repositorio creado para el desarrollo y práctica de la guía de Programación O
 
 El proyecto se encuentra organizado en carpetas independientes para cada uno de los ejercicios:
 
-* 📁 **`Ejercicio1/`**
+* 📁 **`Ejercicio1`**
   * **Descripción:** Cálculo de las edades de la familia (Juan, Alberto, Ana y la mamá) aplicando lógica de proporciones mediante POO.
   * **Archivos:** `Main.java`, `operation.java`
 
-* 📁 **`Ejercicio2/`**
+* 📁 **`Ejercicio2`**
   * **Descripción:** Implementación de flujo lógico con variables de control y sumatorias.
   * **Archivos:** `Main.java`, `operation.java`
 
-* 📁 **`Ejercicio3/`**
+* 📁 **`Ejercicio3`**
   * **Descripción:** Cálculo de nómina (Salario Bruto, Retención en la fuente y Salario Neto) basado en horas trabajadas y valores fijos.
   * **Archivos:** `Main.java`, `operation.java`
 
-* 📁 **`Ejercicio4/`**
+* 📁 **`Ejercicio4`**
   * **Descripción:** Cálculo del cuadrado y el cubo de un número utilizando la clase `Math.pow`.
   * **Archivos:** `Main.java`, `operation.java`
 
-* 📁 **`Ejercicio5/`**
+* 📁 **`Ejercicio5`**
   * **Descripción:** Resolución de operaciones lógicas y matemáticas complementarias de la guía académica.
   * **Archivos:** `Main.java`, `operation.java`
 
